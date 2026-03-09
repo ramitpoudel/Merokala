@@ -76,7 +76,7 @@ if (isset($_GET['email'])) {
 }
 
 .continue-btn:hover {
-    background: #e56d00;
+    background: #e67300;
 }
 
 .error-msg {
