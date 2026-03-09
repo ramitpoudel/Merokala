@@ -112,6 +112,7 @@ if (isset($_GET['email'])) {
                     class="input-field"
                     value="<?= $prefillEmail ?>"
                     required
+                    autocomplete="username"
                 >
 
                 <?php if ($error !== ""): ?>
